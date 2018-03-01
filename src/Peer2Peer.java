@@ -29,7 +29,7 @@ public class Peer2Peer{
                 "If you choose host-to-host, type \"MH\"");
 
 //        host.addNewHostToList("test", 123);
-//        host.addNewHostToList("test", 1234); 
+//        host.addNewHostToList("test", 1234);
 //        System.out.println(host.getPortNumberList());
 //        System.out.println(host.getHostList());
 
